@@ -12,5 +12,5 @@ slides:
 - "nsc-3"
 - "nsc-4"
 extension: false
-permalink: /:title/
+permalink: /saturday-club/
 ---
