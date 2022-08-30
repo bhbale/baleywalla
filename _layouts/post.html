@@ -35,7 +35,7 @@ layout: default
                 <li>
                     <a href="{{ page.previous.url }}">
                         <div class="featured-img">
-                            <img src="https://baleywalla.com/assets/img/{{ page.previous.slides[0] }}.png">
+                            <img src="{{ page.previous.['swiper images'][0] }}">
                         </div>
                         <p>{{ page.previous.excerpt }}</p>
                     </a>
@@ -45,7 +45,7 @@ layout: default
                 <li>
                     <a href="{{ page.next.url }}">
                         <div class="featured-img">
-                            <img src="https://baleywalla.com/assets/img/{{ page.next.slides[0] }}.png">
+                            <img src="{{ page.next.['swiper images'][0] }}">
                         </div>
                         <p>{{ page.next.excerpt }}</p>
                     </a>
