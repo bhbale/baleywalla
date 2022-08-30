@@ -8,11 +8,11 @@ excerpt: Website for a charity giving 13–16-year-olds an opportunity to a rang
   creative programmes across the UK.
 industry: Nonprofit
 year: 2018
-slides:
-- sanlam-1
-- sanlam-2
-- sanlam-3
-- sanlam-4
+swiper images:
+- "/uploads/sanlam-1.png"
+- "/uploads/sanlam-2.png"
+- "/uploads/sanlam-3.png"
+- "/uploads/sanlam-4.png"
 extension: false
 ---
 
