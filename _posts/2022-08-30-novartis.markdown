@@ -1,0 +1,17 @@
+---
+title: Novartis
+date: 2022-08-30 01:19:00 Z
+permalink: "/novartis/"
+categories:
+- Iconography
+excerpt: Iconography for an interactive app intended to give an overview of a fully
+  connected smart home.
+industry: Pharmaceutical
+year: 2015
+swiper images:
+- "/uploads/novartis-1.png"
+- "/uploads/novartis-2.png"
+- "/uploads/novartis-3.gif"
+extension: false
+---
+
