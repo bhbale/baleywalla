@@ -1,19 +1,21 @@
 ---
-layout: post
-title: "Noble"
-excerpt: Website for a cybersecurity startup on a mission to free society from cyber crime.
+title: Noble
+date: 2022-08-27 00:00:00 Z
+permalink: "/noble-css/"
 categories:
 - Digital Design
 - Frontend
+layout: post
+excerpt: Website for a cybersecurity startup on a mission to free society from cyber
+  crime.
 industy: Cybersecurity
-year: "2019"
+year: '2019'
 slides:
-- "noble-1"
-- "noble-2"
-- "noble-3"
-- "noble-4"
+- noble-1
+- noble-2
+- noble-3
+- noble-4
 extension: false
-permalink: /noble-css/
 ---
 
 ![Noble homepage](https://baleywalla.com/assets/img/noble-1.png)
