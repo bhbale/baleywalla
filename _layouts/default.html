@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+    {% include head.html %}
+    <body>
+        <script>document.body.className = 'hidden';</script>
+        {% include sidebar.html %}
+        {{ content }}
+        {% include footer.html %}
+        <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/script.js"></script>
+    </body>
+</html>

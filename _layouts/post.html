@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<header>
+	<a class="back-icon" href="/projects/"></a>
+</header>
+<main>
+    <section class="project-details">
+        <h1>{{ page.excerpt }}</h1>
+        <div class="single-project-info">
+            <ul>
+                <li>{{ page.title }}</li>
+                <li>
+                    <ul>
+                        {% for item in page.categories %}
+                            <li>{{ item }}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+                <li>{{ page.industy }}</li>
+                <li>{{- page.year -}}
+                    {% if page.extension %}
+                        {{- page.extension | prepend: "-" -}}
+                    {% endif %}
+                </li>
+            </ul>
+        </div>
+    </section>
+    {{ content }}
+    <section class="project-related">
+        <a class="back-icon" href="/projects/"></a>
+        <ul>
+            {% if page.previous.url %}
+                <li>
+                    <a href="{{ page.previous.url }}">
+                        <div class="featured-img">
+                            <img src="https://baleywalla.com/assets/img/{{ page.previous.slides[0] }}.png">
+                        </div>
+                        <p>{{ page.previous.excerpt }}</p>
+                    </a>
+                </li>
+            {% endif %}
+            {% if page.next.url %}
+                <li>
+                    <a href="{{ page.next.url }}">
+                        <div class="featured-img">
+                            <img src="https://baleywalla.com/assets/img/{{ page.next.slides[0] }}.png">
+                        </div>
+                        <p>{{ page.next.excerpt }}</p>
+                    </a>
+                </li>
+            {% endif %}
+        </ul>
+    </section>
+</main>

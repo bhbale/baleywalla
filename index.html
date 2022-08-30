@@ -1,0 +1,52 @@
+---
+title: Home
+layout: default
+description: I'm a freelance digital designer from Hong Kong currently based in London, UK.
+---
+
+<main>
+    <section class="headline">
+        <h1>{{ page.description }}</h1>
+    </section>
+    {% for post in site.posts %}
+        <section class="projects">
+            <div class="single-project">
+                <div class="swiper">
+                    <div class="swiper-wrapper">
+                        {% for item in post.slides %}
+                            <div class="swiper-slide">
+                                <img src="https://baleywalla.com/assets/img/{{ item }}.png">
+                            </div>
+                        {% endfor %}
+                    </div>
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+                </div>
+                <div class="project-description">
+                    <div class="project-links"></div>
+                    <p>{{ post.excerpt }}</p>
+                </div>
+                <div class="project-info">
+                    <ul>
+                        <li>{{ post.title }}</li>
+                        <li>
+                            <ul>
+                                {% for item in post.categories %}
+                                    <li>{{ item }}</li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        <li>{{ post.industy }}</li>
+                        <li>{{- post.year -}}
+                            {% if post.extension %}
+                                {{- post.extension | prepend: "-" -}}
+                            {% endif %}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    {% endfor %}
+    {% include about.html %}
+</main>

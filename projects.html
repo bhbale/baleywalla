@@ -1,0 +1,26 @@
+---
+layout: default
+permalink: /projects/
+description: Recent digital design projects for a range of sectors
+---
+
+<main>
+    {% include menu.html %}
+    <section class="projects-headline">
+		<h1>{{ page.description }}</h1>
+	</section>
+    <section class="list-of-projects">
+        <ul>
+            {% for post in site.posts %}
+                <li>
+                    <a href="{{ post.url }}">
+                        <div class="featured-img">
+                            <img src="https://baleywalla.com/assets/img/{{ post.slides[0] }}.png">
+                        </div>
+                        <p>{{ post.excerpt }}</p>
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+</main>
