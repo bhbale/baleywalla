@@ -6,7 +6,7 @@ categories:
 - Digital Design
 excerpt: Website for a charity giving 13–16-year-olds an opportunity to a range of
   creative programmes across the UK.
-industy: Nonprofit
+industry: Nonprofit
 year: 2018
 swiper images:
 - "/uploads/nsc-1.png"
