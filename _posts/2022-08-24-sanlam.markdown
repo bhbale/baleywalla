@@ -1,6 +1,7 @@
 ---
 title: Sanlam
 date: 2022-08-24 00:00:00 Z
+permalink: "/sanlam/"
 categories:
 - Digital Design
 excerpt: Website for a charity giving 13–16-year-olds an opportunity to a range of
