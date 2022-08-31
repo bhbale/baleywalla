@@ -8,7 +8,7 @@ excerpt: Iconography for an interactive app intended to give an overview of a fu
   connected smart home.
 industry: Pharmaceutical
 year: 2015
-swiper images:
+images:
 - "/uploads/novartis-1.png"
 - "/uploads/novartis-2.png"
 - "/uploads/novartis-3.gif"

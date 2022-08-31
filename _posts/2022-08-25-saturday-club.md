@@ -8,7 +8,7 @@ excerpt: Website for a charity giving 13–16-year-olds an opportunity to a rang
   creative programmes across the UK.
 industry: Nonprofit
 year: 2018
-swiper images:
+images:
 - "/uploads/nsc-1.png"
 - "/uploads/nsc-2.png"
 - "/uploads/nsc-3.png"
