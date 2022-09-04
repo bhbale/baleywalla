@@ -14,6 +14,8 @@ defaults:
     type: pages
   values:
     layout: default
+    menu: false
+    description:
 - scope:
     path: ''
     type: posts
