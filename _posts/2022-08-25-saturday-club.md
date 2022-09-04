@@ -13,7 +13,6 @@ images:
 - "/uploads/nsc-2.png"
 - "/uploads/nsc-3.png"
 - "/uploads/nsc-4.png"
-extension: false
 layout: post
 ---
 

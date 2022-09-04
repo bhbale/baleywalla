@@ -13,6 +13,6 @@ images:
 - "/uploads/sanlam-2.png"
 - "/uploads/sanlam-3.png"
 - "/uploads/sanlam-4.png"
-extension: false
+layout: post
 ---
 
