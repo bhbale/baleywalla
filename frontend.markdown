@@ -2,8 +2,8 @@
 title: Frontend
 date: 2022-09-04 01:54:00 Z
 permalink: "/frontend/"
-menu: main
 position: 2
+menu: main
 description: End-to-end projects for those in need of a one-man band.
 layout: default
 ---

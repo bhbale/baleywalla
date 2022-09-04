@@ -2,11 +2,10 @@
 title: Projects
 date: 2022-09-04 01:53:00 Z
 permalink: "/projects/"
-menu: main
 position: 0
+menu: main
 description: Recent digital design projects for a range of sectors
 layout: default
-menu: main
 ---
 
 <main>
