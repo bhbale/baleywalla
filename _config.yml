@@ -14,18 +14,17 @@ defaults:
     type: pages
   values:
     layout: default
-    menu: false
+    menu: 
     description: 
 - scope:
     path: ''
     type: posts
   values:
-    excerpt: Short description of post
-    industry: i.e. Financial or Nonprofit
-    year: F2020
-    images:
-    - Upload images for swiper slides
-    extension: false
+    excerpt: 
+    industry: 
+    year: 
+    images: 
+    extension: 
     layout: post
 email: baleywalla@gmail.com
 description: Digital Design
