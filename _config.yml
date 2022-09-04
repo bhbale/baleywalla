@@ -18,6 +18,11 @@ defaults:
     path: ''
     type: posts
   values:
+    excerpt: ''
+    industry: ''
+    year: ''
+    images: ['']
+    extension: false
     layout: post
 email: baleywalla@gmail.com
 description: Digital Design
