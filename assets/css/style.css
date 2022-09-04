@@ -1051,19 +1051,18 @@ footer ul li a:hover {
 .project-content p, .project-content h3 {
 	width: 96%;
 	padding: 0 4%;
+	margin: 3rem auto;
 }
 
 @media screen and (min-width: 768px) {
 	.project-content p, .project-content h3  {
 		width: 60%;
 		max-width: 1150px;
-		
 	}
 }
 
 .project-content p {
 	font-size: 2rem;
-	margin: 3rem auto;
 }
 
 @media screen and (min-width: 768px) {
@@ -1079,22 +1078,37 @@ footer ul li a:hover {
 	color: black;
 	text-transform: uppercase;
 	line-height: 1.7;
-	margin: 2rem auto 0;
 }
 
-.project-content figure, .project-content .cp_embed_wrapper {
+.project-content figure, .project-content .cp_embed_wrapper, .project-content .invision-embed {
 	background: #F5F5F5;
 	margin: 6vh 0;
 }
 
 @media screen and (min-width: 768px) {
-	.project-content figure, .project-content .cp_embed_wrapper {
+	.project-content figure, .project-content .cp_embed_wrapper, .project-content .invision-embed {
 		margin: 10vh 0;
 	}
 }
 
-.project-content figure img {
+.project-content figure video {
+	padding: 4vh 4%;
+	max-width: 160rem;
+	margin: 0 auto;
+	min-height: 20rem;
+}
+
+@media screen and (min-width: 768px) {
+	.project-content figure video {
+		padding: 8vh 4%;
+	}
+}
+
+.project-content figure img, .project-content figure video {
 	width: 100%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
 }
 
 .project-content figure figcaption {
@@ -1134,12 +1148,17 @@ footer ul li a:hover {
 }
 
 .project-content .cp_embed_wrapper iframe {
-	max-width: 80rem;
+	max-width: 120rem;
 	height: 35rem;
 }
 
+@media screen and (min-width: 768px) {
+	.project-content .cp_embed_wrapper iframe {
+		height: 45rem;
+	}
+}
+
 .project-content .invision-embed {
-	background: #F5F5F5;
 	border-top: 0.2rem solid black;
 	padding: 0 4%;
 }
@@ -1167,43 +1186,43 @@ footer ul li a:hover {
 	}
 }
 @keyframes headlineLoad {
-0% {
-	opacity: 0;
-	padding: 20vh 4% 30vh;
-}
+	0% {
+		opacity: 0;
+		padding: 20vh 4% 30vh;
+	}
 
-25% {
-	opacity: 1;
-	padding: 20vh 4% 30vh;
-}
+	25% {
+		opacity: 1;
+		padding: 20vh 4% 30vh;
+	}
 
-75% {
-	opacity: 1;
-	padding: 20vh 4% 30vh;
-}
+	75% {
+		opacity: 1;
+		padding: 20vh 4% 30vh;
+	}
 
-100% {
-	opacity: 1;
-	padding: 20vh 4%;
-}
+	100% {
+		opacity: 1;
+		padding: 20vh 4%;
+	}
 }
 
 @keyframes fadeIn {
-from {
-	opacity: 0;
-}
+	from {
+		opacity: 0;
+	}
 
-to {
-	opacity: 1;
-}
+	to {
+		opacity: 1;
+	}
 }
 
 @keyframes slideIn {
-from {
-	right: calc(-5rem - 4%);
-}
+	from {
+		right: calc(-5rem - 4%);
+	}
 
-to {
-	right: 0;
-}
+	to {
+		right: 0;
+	}
 }
