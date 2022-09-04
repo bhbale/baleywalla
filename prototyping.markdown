@@ -11,7 +11,6 @@ excerpt: A series of prototypes, low and high fidelity, using a number of tools.
 industry: Various
 year: 2015
 extension: 20
-layout: post
 ---
 
 <div class="invision-embed">
