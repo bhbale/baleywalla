@@ -16,14 +16,16 @@ layout: default
     <section class="list-of-projects">
         <ul>
             {% for post in site.categories['Digital Design'] %}
-                <li>
-                    <a href="{{ post.url }}">
-                        <div class="featured-img">
-                            <img src="{{ post.images[0] }}">
-                        </div>
-                        <p>{{ post.excerpt }}</p>
-                    </a>
-                </li>
+                {% if post.images %}
+                    <li>
+                        <a href="{{ post.url }}">
+                            <div class="featured-img">
+                                <img src="{{ post.images[0] }}">
+                            </div>
+                            <p>{{ post.excerpt }}</p>
+                        </a>
+                    </li>
+                {% endif %}
             {% endfor %}
         </ul>
     </section>

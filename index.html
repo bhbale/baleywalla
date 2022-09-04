@@ -9,8 +9,10 @@ description: I'm a freelance digital designer from Hong Kong currently based in 
     <section class="headline">
         <h1>{{ page.description }}</h1>
     </section>
-    {% for post in site.posts %}
+    
         <section class="projects">
+            {% for post in site.posts %}
+            {% if post.images %}
             <div class="single-project">
                 <div class="swiper">
                     <div class="swiper-wrapper">
@@ -47,7 +49,9 @@ description: I'm a freelance digital designer from Hong Kong currently based in 
                     </ul>
                 </div>
             </div>
+            {% endif %}
+            {% endfor %}
         </section>
-    {% endfor %}
+    
     {% include about.html %}
 </main>

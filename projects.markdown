@@ -16,6 +16,7 @@ layout: default
     <section class="list-of-projects">
         <ul>
             {% for post in site.posts %}
+                {% if post.images %}
                 <li>
                     <a href="{{ post.url }}">
                         <div class="featured-img">
@@ -24,6 +25,7 @@ layout: default
                         <p>{{ post.excerpt }}</p>
                     </a>
                 </li>
+                {% endif %}
             {% endfor %}
         </ul>
     </section>
