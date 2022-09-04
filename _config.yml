@@ -18,20 +18,11 @@ defaults:
     path: ''
     type: posts
   values:
-<<<<<<< HEAD
-    categories: "Digital Design"
-    excerpt: "Short description of post"
-    industry: "i.e. Financial or Nonprofit"
-    year: "F2020"
-    images: "Upload images for swiper slides"
-=======
-    categories: Digital Design
     excerpt: Short description of post
     industry: i.e. Financial or Nonprofit
     year: F2020
     images:
-    - "/uploads/noble-1.png, /uploads/noble-1.png, /uploads/noble-1.png"
->>>>>>> 7522c5c451c721a4b9c57384e01c951233d99a84
+    - Upload images for swiper slides
     extension: false
     layout: post
 email: baleywalla@gmail.com
