@@ -1,6 +1,6 @@
 ---
 title: Saturday Club
-date: 2022-08-25 00:00:00 Z
+date: 2022-08-26 11:59:00 Z
 permalink: "/saturday-club/"
 categories:
 - Digital Design
