@@ -4,8 +4,8 @@ date: 2022-08-24 00:00:00 Z
 permalink: "/sanlam/"
 categories:
 - Digital Design
-excerpt: Website for a charity giving 13–16-year-olds an opportunity to a range of
-  creative programmes across the UK.
+excerpt: Website for a financial services group originating from South Africa, positioning
+  ‘Wealthsmiths’ in the UK.
 industry: Financial
 year: 2018
 images:
@@ -13,6 +13,7 @@ images:
 - "/uploads/sanlam-2.png"
 - "/uploads/sanlam-3.png"
 - "/uploads/sanlam-4.png"
+- "/uploads/sanlam-5.png"
 layout: post
 ---
 
