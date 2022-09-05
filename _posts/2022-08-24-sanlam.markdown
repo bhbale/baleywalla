@@ -17,3 +17,32 @@ images:
 layout: post
 ---
 
+<figure>
+    <img src="/uploads/sanlam-1.png" alt="Sanlam homepage">
+</figure>
+
+### Summary
+
+Sanlam is a South African financial services group providing services in private wealth management and insurance. The group wanted to position ‘Wealthsmiths’ in the UK with a brand new visual identity. I was tasked with developing and defining a look and feel for their website.
+
+As part of the look and feel delivery for a digital agency, I worked closely with a branding designer to design the look and feel of crucial top-level pages. I defined digital aspects of the visual identity (colours, buttons, typography, etc) for the digital agency to implement across the whole website.
+
+<figure>
+    <img src="/uploads/sanlam-2.png" alt="Sanlam homepage, individuals page, and services (mortgage) page">
+     <figcaption>L-R: Homepage, individuals page, and services (mortgage) page</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/sanlam-3.png" alt="‘About Us’ section on Sanlam's homepage">
+     <figcaption>‘About Us’ section on the homepage</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/sanlam-4.png" alt="Mobile designs for Sanlam's ‘About Us’ section on the homepage, article listing page, and menu overlay">
+     <figcaption>L-R: ‘About Us’ section on the homepage, article listing page, and menu overlay</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/sanlam-3.png" alt="Sanlam's company history page">
+     <figcaption>Company history page</figcaption>
+</figure>
