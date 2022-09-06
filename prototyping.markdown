@@ -4,7 +4,6 @@ date: 2022-09-03 22:12:00 Z
 permalink: "/prototyping/"
 position: 3
 menu: main
-layout: post
 categories:
 - Invision
 - Principle
@@ -13,6 +12,7 @@ excerpt: A series of prototypes, low and high fidelity, using a number of tools.
 industry: Various
 year: 2015
 extension: 20
+layout: post
 ---
 
 <div class="invision-embed">
@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
  <figure>
-    <video controls muted playsinline src="https://cdn.videvo.net/videvo_files/video/free/2013-08/large_watermarked/hd0992_preview.mp4"></video>
+    <video controls muted playsinline src="/uploads/trf-homepage.mp4"></video>
     <figcaption>Homepage design for The Rise Fund</figcaption>
 </figure>
 
@@ -39,19 +39,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <figure>
-    <video controls muted playsinline src="https://cdn.videvo.net/videvo_files/video/free/2013-08/large_watermarked/hd0992_preview.mp4"></video>
+    <video controls muted playsinline src="/uploads/landg-horizontal-scrolling.mp4"></video>
     <figcaption>Horizontal scrolling on mobile for Legal & General</figcaption>
 </figure>
 
 <figure>
-    <video controls muted playsinline src="https://cdn.videvo.net/videvo_files/video/free/2013-08/large_watermarked/hd0992_preview.mp4"></video>
+    <video controls muted playsinline src="/uploads/landg-nav-tiers.mp4"></video>
     <figcaption>Transitions between navigation tiers on desktop for Legal & General</figcaption>
 </figure>
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <figure>
-    <video controls muted playsinline src="https://cdn.videvo.net/videvo_files/video/free/2013-08/large_watermarked/hd0992_preview.mp4"></video>
+    <video controls muted playsinline src="/uploads/libertine-homepage.mp4"></video>
     <figcaption>Homepage design for Libertine London</figcaption>
 </figure>
 

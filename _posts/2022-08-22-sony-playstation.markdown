@@ -19,3 +19,31 @@ extension: 14
 layout: post
 ---
 
+<figure>
+    <img src="/uploads/playstation-1.png" alt="PlayStation Store UI product page concept">
+</figure>
+
+<figure>
+    <img src="/uploads/playstation-2.png" alt="PlayStation Store UI product page concept">
+     <figcaption>UI concept for product pages</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/playstation-3.png" alt="PlayStation Store mobile designs for search suggestion overlay, homepage, and menu overlay">
+     <figcaption>L-R: Search suggestion overlay, homepage, and menu overlay</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/playstation-4.png" alt="L-R: PlayStation Store mobile designs for filtering (menu overlay), shopping cart page, and user account page">
+     <figcaption>L-R: Filtering (menu overlay), shopping cart page, and user account page</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/playstation-5.png" alt="PlayStation Store game features page for a pre-order title">
+     <figcaption>Game features page for a pre-order title</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/playstation-6.png" alt="PlayStation Store media page for a pre-order title">
+     <figcaption>Media page for a pre-order title</figcaption>
+</figure>

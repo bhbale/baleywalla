@@ -15,3 +15,17 @@ images:
 layout: post
 ---
 
+<figure>
+    <img src="/uploads/novartis-1.png" alt="Novartis smart home app">
+</figure>
+
+<figure>
+    <img src="/uploads/novartis-2.png" alt="Novartis icon set for smart home devices">
+     <figcaption>Icon set for smart home devices</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/novartis-3.gif" alt="Devices within each room in a smart home for Novartis">
+     <figcaption>Devices within each room in a smart home
+</figcaption>
+</figure>
