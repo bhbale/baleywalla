@@ -18,7 +18,6 @@ layout: post
 
 <figure>
     <img src="/uploads/nsc-1.png" alt="National Saturday Club homepage">
-     <figcaption>L-R: Homepage, menu overlay, and sticky sub-navigation (technology page)</figcaption>
 </figure>
 
 ### Summary
