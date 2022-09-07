@@ -16,10 +16,6 @@ images:
 layout: post
 ---
 
-<figure>
-    <img src="/uploads/nsc-1.png" alt="National Saturday Club homepage">
-</figure>
-
 ### Summary
 
 National Saturday Club is a charity based in the UK enabling young students an opportunity to study creative subjects for free at a nearby local university or cultural institution. The charity wanted a revamped website, featuring the entire network of organisations involved with the charity as well as an interactive way for students to discover nearby clubs.

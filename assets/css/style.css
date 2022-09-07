@@ -1080,6 +1080,17 @@ footer ul li a:hover {
 	line-height: 1.7;
 }
 
+.project-content .featured-img {
+	background: #F5F5F5;
+	margin-bottom: 6vh;
+}
+
+@media screen and (min-width: 768px) {
+	.project-content .featured-img {
+		margin-bottom: 10vh;
+	}
+}
+
 .project-content figure, .project-content .cp_embed_wrapper, .project-content .invision-embed {
 	background: #F5F5F5;
 	margin: 6vh 0;
@@ -1104,7 +1115,7 @@ footer ul li a:hover {
 	}
 }
 
-.project-content figure img, .project-content figure video {
+.project-content .featured-img img, .project-content figure img, .project-content figure video {
 	max-width: 100%;
 	height: auto;
 	display: block;

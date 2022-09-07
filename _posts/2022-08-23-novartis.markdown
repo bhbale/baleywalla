@@ -16,10 +16,6 @@ layout: post
 ---
 
 <figure>
-    <img src="/uploads/novartis-1.png" alt="Novartis smart home app">
-</figure>
-
-<figure>
     <img src="/uploads/novartis-2.png" alt="Novartis icon set for smart home devices">
      <figcaption>Icon set for smart home devices</figcaption>
 </figure>

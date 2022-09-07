@@ -20,10 +20,6 @@ layout: post
 ---
 
 <figure>
-    <img src="/uploads/playstation-1.png" alt="PlayStation Store UI product page concept">
-</figure>
-
-<figure>
     <img src="/uploads/playstation-2.png" alt="PlayStation Store UI product page concept">
      <figcaption>UI concept for product pages</figcaption>
 </figure>
