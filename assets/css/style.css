@@ -165,7 +165,7 @@ p {
 	position: absolute;
 	content: '';
 	display: block;
-	bottom: 0;
+	bottom: -0.2rem;
 	width: 0;
 	height: 0.2rem;
 	background: black;
