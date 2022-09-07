@@ -36,7 +36,7 @@ layout: default
     <section class="project-related">
         <a class="back-icon" href="/projects/"></a>
         <ul>
-            {% if page.previous.url %}
+            {% if page.previous.images %}
                 <li>
                     <a href="{{ page.previous.url }}">
                         <div class="featured-img">
@@ -46,7 +46,8 @@ layout: default
                     </a>
                 </li>
             {% endif %}
-            {% if page.next.url %}
+            {% if page.next.images %}
+                
                 <li>
                     <a href="{{ page.next.url }}">
                         <div class="featured-img">
