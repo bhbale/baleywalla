@@ -39,6 +39,6 @@ As part of the look and feel delivery for a digital agency, I worked closely wit
 </figure>
 
 <figure>
-    <img src="/uploads/sanlam-3.png" alt="Sanlam's company history page">
+    <img src="/uploads/sanlam-5.png" alt="Sanlam's company history page">
      <figcaption>Company history page</figcaption>
 </figure>
