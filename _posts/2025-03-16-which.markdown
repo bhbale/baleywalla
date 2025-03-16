@@ -1,0 +1,18 @@
+---
+title: Which?
+date: 2025-03-16 00:00:00 Z
+permalink: "/which/"
+categories:
+- Product Design
+excerpt: A collection of various sized opportunities for the product compare tool that improved engagement by 33% YoY.
+industry: Non-profit
+year: 2021
+extension: Present
+images:
+- "/uploads/noble-1.png"
+- "/uploads/noble-2.png"
+- "/uploads/noble-3.png"
+- "/uploads/noble-4.png"
+layout: post
+---
+

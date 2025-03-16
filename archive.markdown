@@ -1,10 +1,10 @@
 ---
-title: Digital Design
+title: Archive
 date: 2022-09-04 01:54:00 Z
-permalink: "/digital-design/"
-position: 1
+permalink: "/archive/"
+position: 3
 menu: main
-description: UX/UI for websites, mobile e-commerce, and TV screens.
+description: An archive of selected works from 2012-2019
 layout: default
 ---
 
@@ -15,7 +15,7 @@ layout: default
 	</section>
     <section class="list-of-projects">
         <ul>
-            {% for post in site.categories['Digital Design'] %}
+            {% for post in site.posts offset:1 %}
                 {% if post.images %}
                     <li>
                         <a href="{{ post.url }}">

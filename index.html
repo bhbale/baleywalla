@@ -10,7 +10,7 @@ description: I'm a British-Filipino digital product designer originally from Hon
         <h1>{{ page.description }}</h1>
     </section>
         <section class="projects">
-            {% for post in site.posts %}
+            {% for post in site.posts offset:1 %}
                 {% if post.images %}
                     <div class="single-project">
                         <div class="swiper">

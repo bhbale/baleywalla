@@ -4,7 +4,7 @@ date: 2022-09-04 01:53:00 Z
 permalink: "/projects/"
 position: 0
 menu: main
-description: Recent digital design projects for a range of sectors
+description: A selection of projects completed at UK's biggest consumer organisation
 layout: default
 ---
 
@@ -15,7 +15,7 @@ layout: default
 	</section>
     <section class="list-of-projects">
         <ul>
-            {% for post in site.posts %}
+            {% for post in site.posts limit:1 %}
                 {% if post.images %}
                 <li>
                     <a href="{{ post.url }}">

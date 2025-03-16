@@ -1,47 +1,28 @@
 ---
-title: Prototyping
+title: Experiments
 date: 2022-09-03 22:12:00 Z
-permalink: "/prototyping/"
-position: 3
+permalink: "/experiments/"
+position: 1
 menu: main
 categories:
-- Invision
-- Principle
-- CodePen
-excerpt: A series of prototypes, low and high fidelity, using a number of tools.
-industry: Various
-year: 2015
-extension: 20
+- Affiliates
+- Retention
+- Subscription
+excerpt: A collection of winning A/B tests
+industry: Publishing
+year: 2021
+extension: 25
 layout: post
 ---
-
-<div class="invision-embed">
-    <iframe src="https://invis.io/HQZVIUBPKSU"></iframe>
-</div>
-
-### InVision
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<div class="invision-embed">
-    <iframe src="https://invis.io/PKZVIQOE9Z4"></iframe>
-</div>
-
- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
  <figure>
     <video controls muted playsinline src="/uploads/trf-homepage.mp4"></video>
     <figcaption>Homepage design for The Rise Fund</figcaption>
 </figure>
 
-### Principle
+### Heading
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-<figure>
-    <video controls muted playsinline src="/uploads/landg-horizontal-scrolling.mp4"></video>
-    <figcaption>Horizontal scrolling on mobile for Legal & General</figcaption>
-</figure>
 
 <figure>
     <video controls muted playsinline src="/uploads/landg-nav-tiers.mp4"></video>
