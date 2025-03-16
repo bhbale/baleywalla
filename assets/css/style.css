@@ -407,6 +407,7 @@ aside .overlay .experience ul:nth-child(1) li:nth-child(2):after {
 aside .overlay .experience ul li:nth-child(2):after {
 	content: '*';
 	opacity: 0.5;
+	display: none;
 }
 
 aside .overlay .experience, aside .overlay .skills-tools {
