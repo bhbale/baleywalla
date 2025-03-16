@@ -27,9 +27,9 @@ defaults:
     extension: 
     layout: post
 email: baleywalla@gmail.com
-description: Digital Design
-baseurl: ''
-url: ''
+description: Digital Product Design
+baseurl: 
+url: 
 twitter_username: 
 github_username: bhbale
 theme: minima
