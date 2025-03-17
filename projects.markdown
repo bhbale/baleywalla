@@ -9,8 +9,6 @@ description: I'm a British-Filipino digital product designer originally from Hon
 layout: default
 ---
 
-
-
 <main>
     {% include menu.html %}
     <section class="headline">
