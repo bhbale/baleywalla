@@ -10,10 +10,7 @@ industry: Non-profit
 year: 2021
 extension: Present
 images:
-- "/uploads/noble-1.png"
-- "/uploads/noble-2.png"
-- "/uploads/noble-3.png"
-- "/uploads/noble-4.png"
+- "/uploads/which-compare-1.png"
 layout: post
 ---
 
