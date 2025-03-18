@@ -11,6 +11,7 @@ year: 2021
 extension: Present
 images:
 - "/uploads/which-compare-1.png"
+- "/uploads/which-compare-2.png"
 layout: post
 ---
 

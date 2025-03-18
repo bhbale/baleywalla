@@ -159,7 +159,7 @@ p {
 }
     @media screen and (min-width: 768px) {
 	.two-col-project-list ul li, .project-related ul li, .list-of-projects ul li {
-		border-bottom: 0.2rem solid #F5F5F5;
+		border-bottom: 0.2rem solid #DDD;
 	}
 }
     .two-col-project-list ul li:after, .project-related ul li:after, .list-of-projects ul li:after {
@@ -230,7 +230,7 @@ p {
 
 .two-col-project-list ul li .featured-img:before, .project-related ul li .featured-img:before, .list-of-projects ul li .featured-img:before {
 	width: 100%;
-	background: #F5F5F5;
+	background: #DDD;
 }
 
 .two-col-project-list ul li .featured-img:after, .project-related ul li .featured-img:after, .list-of-projects ul li .featured-img:after {
@@ -595,7 +595,7 @@ nav ul li.current-menu-item:before, nav ul li.current-menu-item:after {
 }
 
 nav ul li.current-menu-item:before {
-	background: #F5F5F5;
+	background: #DDD;
 	width: 100%;
 }
 
@@ -626,7 +626,7 @@ nav ul li a:before, nav ul li a:after {
 }
 
 nav ul li a:before {
-	background: #F5F5F5;
+	background: #DDD;
 	width: 100%;
 }
 
@@ -848,7 +848,7 @@ footer ul li a:hover {
 	width: 100%;
 	height: 100%;
 	z-index: 0;
-	background: #F5F5F5;
+	background: #DDD;
 }
 
 .projects .single-project .swiper:hover .swiper-button-prev, .projects .single-project .swiper:hover .swiper-button-next {
@@ -1084,7 +1084,7 @@ footer ul li a:hover {
 }
 
 .project-content .featured-img {
-	background: #F5F5F5;
+	background: #DDD;
 	margin-bottom: 6vh;
 }
 
@@ -1095,7 +1095,7 @@ footer ul li a:hover {
 }
 
 .project-content figure, .project-content .cp_embed_wrapper, .project-content .invision-embed {
-	background: #F5F5F5;
+	background: #DDD;
 	margin: 6vh 0;
 }
 
