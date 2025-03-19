@@ -15,7 +15,7 @@ layout: default
         <h1>{{ page.description }}</h1>
     </section>
         <section class="projects">
-            {% for post in site.posts limit:1 %}
+            {% for post in site.posts limit:2 %}
                 {% if post.images %}
                     <div class="single-project">
                         <div class="swiper">
@@ -31,7 +31,9 @@ layout: default
                             <div class="swiper-button-next"></div>
                         </div>
                         <div class="project-description">
-                            <div class="project-links"></div>
+                            <div class="project-links">
+                            <a href="{{ post.url }}">{{ post.link }}</a>
+                            </div>
                             <p>{{ post.excerpt }}</p>
                         </div>
                         <div class="project-info">
@@ -44,7 +46,7 @@ layout: default
                                         {% endfor %}
                                     </ul>
                                 </li>
-                                <li>{{ post.industry }}</li>
+                                <li>{{ post.focus }}</li>
                                 <li>{{- post.year -}}
                                     {% if post.extension %}
                                         {{- post.extension | prepend: "-" -}}

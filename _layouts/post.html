@@ -16,7 +16,7 @@ layout: default
                         {% endfor %}
                     </ul>
                 </li>
-                <li>{{ page.industry }}</li>
+                <li>{{ page.industry }}{{ page.focus }}</li>
                 <li>{{- page.year -}}
                     {% if page.extension %}
                         {{- page.extension | prepend: "-" -}}

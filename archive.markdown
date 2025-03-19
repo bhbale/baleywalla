@@ -15,7 +15,7 @@ layout: default
 	</section>
     <section class="list-of-projects">
         <ul>
-            {% for post in site.posts offset:1 %}
+            {% for post in site.posts offset:2 %}
                 {% if post.images %}
                     <li>
                         <a href="{{ post.url }}">
