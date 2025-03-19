@@ -11,8 +11,7 @@ year: 2022
 extension: 23
 link: Case Study
 images:
-- "/uploads/which-compare-1.png"
-- "/uploads/which-compare-2.png"
+- "/uploads/which-affiliates-1.png"
 layout: post
 ---
 
