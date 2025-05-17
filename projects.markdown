@@ -14,49 +14,22 @@ layout: default
     <section class="headline">
         <h1>{{ page.description }}</h1>
     </section>
-        <section class="projects">
+    <section class="list-of-projects">
+        <ul>
             {% for post in site.posts limit:2 %}
                 {% if post.images %}
-                    <div class="single-project">
-                        <div class="swiper">
-                            <div class="swiper-wrapper">
-                                {% for item in post.images %}
-                                    <div class="swiper-slide">
-                                        <img src="{{ item }}">
-                                    </div>
-                                {% endfor %}
-                            </div>
-                            <div class="swiper-pagination"></div>
-                            <div class="swiper-button-prev"></div>
-                            <div class="swiper-button-next"></div>
-                        </div>
-                        <div class="project-description">
-                            <div class="project-links">
-                            <a href="{{ post.url }}">{{ post.link }}</a>
+                    <li>
+                        <a href="{{ post.url }}">
+                            <div class="featured-img">
+                                <img src="{{ post.images[0] }}">
                             </div>
                             <p>{{ post.excerpt }}</p>
-                        </div>
-                        <div class="project-info">
-                            <ul>
-                                <li>{{ post.title }}</li>
-                                <li>
-                                    <ul>
-                                        {% for item in post.categories %}
-                                            <li>{{ item }}</li>
-                                        {% endfor %}
-                                    </ul>
-                                </li>
-                                <li>{{ post.focus }}</li>
-                                <li>{{- post.year -}}
-                                    {% if post.extension %}
-                                        {{- post.extension | prepend: "-" -}}
-                                    {% endif %}
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                            <p>{{ post.title }}, {{ post.focus }}, {{ post.year }}</p>
+                        </a>
+                    </li>
                 {% endif %}
             {% endfor %}
-        </section>
+        </ul>
+    </section>
     {% include about.html %}
 </main>
