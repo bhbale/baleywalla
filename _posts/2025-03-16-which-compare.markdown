@@ -17,13 +17,13 @@ layout: post
 
 ### Summary
 
-*TLDR? Leaky bucket retention problem → We did some things → This somehow increased compare engagement 33% YoY → A good story to tell* 😎
+*TL;DR: Leaky bucket retention problem → We did some things → This somehow increased compare engagement 33% YoY → A good story to tell* 😎
 
-With a leaky bucket issue at the company that occurs for a lot of subscription businesses today, our squad was tasked with how we could better retain members. A key step in the research and buying journey is the ability to compare products at a glance. As a squad, we decided this area was a big opportunity to focus on where we could improve journeys for users and increase member engagement.
+With a leaky bucket subscription issue at the company, our squad was tasked with how we could better retain members. A key step in the research and buying journey is the ability to compare products at a glance. As a squad, we decided this area was a big opportunity to focus on where we could improve journeys for users and increase member engagement.
 
 We completed multiple rounds of research and delivered a series of initiatives across multiple quarters. As a result of all the work and to our surprise, we saw a 33% YoY increase in engagement on the compare feature.
 
-By using user insight and connecting the work to business goals, our squad managed to tell a story of how essential it is to understand the research and buying journey of our users and how we can correlate these insights to help the business as well. 
+By using user insight and connecting the work to business goals, our squad managed to tell a story of how essential it is to understand the research and buying journey of our users and how we can use these insights to help the business as well. 
 
 <figure>
     <img src="/uploads/which-compare-2.png" alt="blah blah">
