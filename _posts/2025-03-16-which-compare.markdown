@@ -4,8 +4,7 @@ date: 2025-03-16 00:00:00 Z
 permalink: "/which-compare/"
 categories:
 - Product Design
-excerpt: Varying sized opportunities for the product compare experience that increased
-  engagement YoY.
+excerpt: Varying sized opportunities for the product compare tool that increased engagement YoY.
 focus: Retention
 year: 2024
 link: Case Study
@@ -17,7 +16,18 @@ layout: post
 
 ### Summary
 
-Leaky bucket retention problem → We did some things → This somehow increased compare engagement 33% YoY → Users needs and business goals are met
+Leaky bucket retention problem → We did some useful things → This somehow increased compare engagement 33% YoY → Users needs and business goals are met
+
+### My role
+- Leading design and product
+- OKR setting and stakeholder management
+- Working closely with user researchers
+- Prototyping, user testing, and research analysis
+- Setting up experiments for A/B testing
+- Collaborating with experimentation and data teams
+- Ticket writing and being hand-ons with engineering
+- Final UAT sign off before shipping
+
 
 <figure>
     <img src="/uploads/which-compare-2.png" alt="blah blah">
@@ -37,25 +47,38 @@ As a squad, we identified 'compare' as a big opportunity to focus on where we co
 
 ### Research
 
-Lorem
+We already knew a lot about of the research and buying journey process through previous research but we didn’t know how our current compare journey was performing for users apart from our own assumptions and frustrations with the experience.
+
+As a squad, we undertook 2 rounds of research to uncover insights and pain points by showing our current experience and new designs in front of participants on UserTesting.
+
+This included a new mobile concept for the compare journey which we decided was a no-brainer to test as an opportunity because for whatever reason, the compare tool was never available to over 50% of our users.
 
 <figure>
-    <img src="/uploads/which-compare-2.png" alt="blah blah">
-     <figcaption>L-R: Lorem ipsum</figcaption>
+    <img src="/uploads/which-compare-4.png" alt="blah blah">
+     <figcaption>The product research and buying journey with the areas highlighted that we could control for users within the Which? reviews experience</figcaption>
 </figure>
 
 ### Opportunities
 
-Using HMWs from user insights, we came together as a squad to come up with ideas that we could test concepts quickly through A/B test experiments and where necessary, evaluative research. We prioritised the ideas based on how easily they would be to implement versus the impact it could potentially make to move retention metrics forward. 
+Using all the insights from the research, we came together as a squad to come up with ideas on how we could tackle the more pressing areas of concern for users. 
+
+We then further validated these ideas through A/B test experiments and where necessary, evaluative research. We were continuously learning through research and experiments using both qualitative and quantitive data points to ensure that any new designs were meeting both user needs and increasing engagement metrics respectively.
 
 <figure>
     <img src="/uploads/which-compare-2.png" alt="blah blah">
      <figcaption>L-R: Lorem ipsum</figcaption>
 </figure>
 
-### Solution
+### A number of solutions (big and small)
 
-Lorem
+We delivered and shipped a number of initiatives across multiple quarters after validating each one. It was important to ship each initiative quickly in order to get real data that is experienced by 100% of our users. This is also to reward all the efforts by the squad and to see the the work flourish impactfully.
+
+Here's a list of all the initiatives we released to users:
+- Ability to compare on mobile
+- Reducing the size of product cards on listing pages
+- Compare functionality on article pages
+- Compare on the saved page after shortlisting products
+- Enhancements to the compare page
 
 <figure>
     <img src="/uploads/which-compare-2.png" alt="blah blah">

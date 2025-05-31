@@ -56,20 +56,12 @@ body {
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	line-height: 1.3;
+	line-height: 1.4;
 }
 
 @font-face {
 	font-family: SpaceGroteskVariant;
 	src: url("../fonts/SpaceGroteskVariable.ttf");
-}
-
-ul {
-	line-height: 1.4;
-}
-
-p {
-	line-height: 1.3;
 }
 
 .link-arrow, .project-details .visit-site a, .projects .single-project .project-description .project-links a {
@@ -347,11 +339,11 @@ aside .overlay .experience ul:nth-last-child(-n+2), aside .overlay .skills-tools
 	margin: 0;
 }
 
-aside .overlay .experience ul li:before, aside .overlay .skills-tools ul li:before {
+aside .overlay .experience ul li:before, aside .overlay .skills-tools ul li:before, .project-content ul li:before {
 	content: '¬';
 	display: inline-block;
 	transform: rotate(180deg);
-	transform-origin: 45% 45%;
+	transform-origin: 45% 40%;
 }
 
 aside .contact {
@@ -817,13 +809,13 @@ footer ul li a:hover {
 	padding: 2.1rem 4% 1.8rem;
 }
 
-.project-content p, .project-content h3 {
+.project-content p, .project-content h3, .project-content ul {
 	width: 96%;
 	padding: 0 4%;
 	margin: 3rem auto;
 }
 
-.project-content p {
+.project-content p, .project-content ul {
 	font-size: 2rem;
 }
 
@@ -1079,11 +1071,11 @@ footer ul li a:hover {
 		padding: calc(15vh - 2.5rem) 4% calc(15vh - 4.6rem);
 	}
 
-	.project-content p  {
+	.project-content p, .project-content ul  {
 		font-size: 2.4rem;
 	}
 
-	.project-content p, .project-content h3  {
+	.project-content p, .project-content h3, .project-content ul  {
 		width: 60%;
 		max-width: 1150px;
 	}
