@@ -4,7 +4,7 @@ date: 2025-03-16 00:00:00 Z
 permalink: "/which-compare/"
 categories:
 - Product Design
-excerpt: Varying sized opportunities for the product compare tool that increased engagement
+excerpt: Varying sized opportunities for the product compare experience that increased engagement
   YoY.
 focus: Retention
 year: 2024
@@ -17,7 +17,7 @@ layout: post
 
 ### Summary
 
-Leaky bucket retention problem → We did some things → This somehow increased compare engagement 33% YoY → A good story to tell 😎
+Leaky bucket retention problem → We did some things → This somehow increased compare engagement 33% YoY → Users needs and business goals are met
 
 <figure>
     <img src="/uploads/which-compare-2.png" alt="blah blah">
@@ -31,8 +31,8 @@ With a leaky bucket issue within the subscription side of the business, our squa
 As a squad, we identified 'compare' as a big opportunity to focus on where we could improve journeys for users and increase member engagement.
 
 <figure>
-    <img src="/uploads/which-compare-2.png" alt="blah blah">
-     <figcaption>L-R: Lorem ipsum</figcaption>
+    <img src="/uploads/which-compare-3.png" alt="Air fryer 'best' page with compare tray open with a number of products added to compare">
+     <figcaption>Air fryer 'best' page with a number of products added to the compare tray</figcaption>
 </figure>
 
 ### Research
@@ -53,7 +53,7 @@ Using HMWs from user insights, we came together as a squad to come up with ideas
      <figcaption>L-R: Lorem ipsum</figcaption>
 </figure>
 
-### Solutions
+### Solution
 
 Lorem
 
@@ -64,9 +64,9 @@ Lorem
 
 ### Impact
 
-After delivering a series of initiatives across multiple quarters, we saw a 33% YoY increase in engagement on the compare feature to our surprise.
+As a squad, we delivered a series of initiatives across multiple quarters that had incremental impact on compare throughout the year. To our surprise, we saw a 33% YoY increase in engagement on the compare journey as a result of all the changes.
 
-By using user insight and connecting the work to business goals, our squad managed to tell a story of how essential it is to understand the research and buying journey of our users and how we can use these insights to help the business as well.
+By using user insight and connecting the work to business goals, our squad managed to tell a story of how essential it is to understand the research and buying journey of our users and how we can use these insights to push this kind of work forward that also aligns with business goals.
 
 <figure>
     <img src="/uploads/which-compare-2.png" alt="blah blah">
@@ -75,4 +75,4 @@ By using user insight and connecting the work to business goals, our squad manag
 
 ### Reflections & next steps
 
-Lorem
+LoremY
