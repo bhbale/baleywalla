@@ -17,14 +17,14 @@ layout: post
 
 ### Summary
 
-Leaky bucket retention problem → We did some useful things → This somehow increased compare engagement 33% YoY → Users needs and business goals are met
+Leaky bucket retention problem → We did some useful things → This increased engagement with the compare tool 33% YoY → Good outcomes for both users and the business
 
-### My role
+- My role
 - Leading design and product
 - OKR setting and stakeholder management
 - Working closely with user researchers
-- Prototyping, user testing, and research analysis
-- Setting up experiments for A/B testing
+- Prototyping, user testing, and supporting the analysis
+- Writing A/B test plans
 - Collaborating with experimentation and data teams
 - Ticket writing and being hand-ons with engineering
 - Final UAT sign off before shipping
@@ -70,16 +70,16 @@ We then further validated these ideas through A/B test experiments and where nec
      <figcaption>L-R: Lorem ipsum</figcaption>
 </figure>
 
-### A number of solutions (big and small)
+### Big and small bets
 
-We delivered and shipped a number of initiatives across multiple quarters after validating each one. It was important to ship each initiative quickly in order to get real data that is experienced by 100% of our users. This is also to reward all the efforts by the squad and to see the the work flourish impactfully.
+We rolled out a number of initiatives confident that they would impact engagement metrics positively. There's uncertainty of how the changes will perform once everything is shipped. We can hope for an accumulation effect but the data may say otherwise and leave us with more questions than answers.
 
-Here's a list of all the initiatives we released to users:
-- Ability to compare on mobile
+- Here's a list of the initiatives we shipped:
+- Compare journey optimised for mobile
 - Reducing the size of product cards on listing pages
 - Compare functionality on article pages
-- Compare on the saved page after shortlisting products
 - Enhancements to the compare page
+- Compare on the saved page after shortlisting products
 
 <figure>
     <img src="/uploads/which-compare-2.png" alt="blah blah">
@@ -88,15 +88,19 @@ Here's a list of all the initiatives we released to users:
 
 ### Impact
 
-As a squad, we delivered a series of initiatives across multiple quarters that had incremental impact on compare throughout the year. To our surprise, we saw a 33% YoY increase in engagement on the compare journey as a result of all the changes.
+To our surprise, we saw a 33% YoY increase in engagement on the compare journey as a result of all the changes. A lot more than we imagined.
 
-By using user insight and connecting the work to business goals, our squad managed to tell a story of how essential it is to understand the research and buying journey of our users and how we can use these insights to push this kind of work forward that also aligns with business goals.
+The compare journey and page was untouched for many years. I was part of the reviews rewrite project in 2022 where we updated the look of the page using design system components. How users interacted with the page stayed the same. 
+
+Last year, the action of comparing products became a high-value action within the business because the research and data showed how important this stage of the research and buying journey was to users.
 
 <figure>
     <img src="/uploads/which-compare-2.png" alt="blah blah">
      <figcaption>L-R: Lorem ipsum</figcaption>
 </figure>
 
-### Reflections & next steps
+### Reflections
 
-LoremY
+The biggest challenge we had as a design and research team was pushing for this type of work that improves key journeys for our members. It took a long time to convince product and stakeholders that this would be worthwhile to focus on. It never became a priority until retention became a problem.
+
+By using user insight and connecting the work to business goals, our squad managed to tell a story of how essential it is to understand the research and buying journey of our users and how we can use these insights to push this type of work forward in the future that also aligns with business goals. Time will tell.
