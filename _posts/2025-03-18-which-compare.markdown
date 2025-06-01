@@ -32,7 +32,7 @@ Leaky bucket retention problem → We did some useful things → This increased 
 
 <figure>
     <img src="/uploads/which-compare-2.png" alt="blah blah">
-     <figcaption>Compare journey on mobile web | L-R: Adding products to compare tray on listings page, compare page, and switching between products on compare page</figcaption>
+     <figcaption>Compare journey on mobile web | L-R: Adding products to the compare tray on a listing page, compare page showing a side to side comparison of 2 products, and switching between products on the compare page</figcaption>
 </figure>
 
 ### Problem
@@ -43,7 +43,7 @@ As a squad, we identified 'compare' as a big opportunity to focus on where we co
 
 <figure>
     <img src="/uploads/which-compare-3.png" alt="Air fryer 'best' page with compare tray open with a number of products added to compare">
-     <figcaption>Air fryer 'best' page with a number of products added to the compare tray</figcaption>
+     <figcaption>An article page showing an advice product card and 4 products added to the compare tray</figcaption>
 </figure>
 
 ### Research
@@ -61,13 +61,13 @@ This included a new mobile concept for the compare journey which we decided was 
 
 ### Opportunities
 
-Using all the insights from the research, we came together as a squad to come up with ideas on how we could tackle the more pressing areas of concern for users. 
+Using the insights from the research, we came together as a squad to come up with ideas on how we could tackle the more pressing areas of concern for users. 
 
 We then further validated these ideas through A/B test experiments and where necessary, evaluative research. We were continuously learning through research and experiments using both qualitative and quantitive data points to ensure that any new designs were meeting both user needs and increasing engagement metrics respectively.
 
 <figure>
-    <img src="/uploads/which-compare-2.png" alt="blah blah">
-     <figcaption>L-R: Lorem ipsum</figcaption>
+    <img src="/uploads/which-compare-5.png" alt="blah blah">
+     <figcaption>A/B test experiment where we reduced the size of the mobile product cards on listing pages that allow users to compare earlier in their research and buying journey - a key insight we discovered from user research</figcaption>
 </figure>
 
 ### Big and small bets
@@ -79,11 +79,11 @@ We rolled out a number of initiatives confident that they would impact engagemen
 - Reducing the size of product cards on listing pages
 - Compare functionality on article pages
 - Enhancements to the compare page
-- Compare on the saved page after shortlisting products
+- Compare on the saved page for shortlisting products
 
 <figure>
-    <img src="/uploads/which-compare-2.png" alt="blah blah">
-     <figcaption>L-R: Lorem ipsum</figcaption>
+    <img src="/uploads/which-compare-6.png" alt="blah blah">
+     <figcaption>Compare functionality on the saved page for shortlisting products</figcaption>
 </figure>
 
 ### Impact
@@ -95,12 +95,17 @@ The compare journey and page was untouched for many years. I was part of the rev
 Last year, the action of comparing products became a high-value action within the business because the research and data showed how important this stage of the research and buying journey was to users.
 
 <figure>
-    <img src="/uploads/which-compare-2.png" alt="blah blah">
-     <figcaption>L-R: Lorem ipsum</figcaption>
+    <img src="/uploads/which-compare-7.png" alt="blah blah">
+     <figcaption>Timeline of the impact of all of the work completed on compare across 8 months</figcaption>
 </figure>
 
 ### Reflections
 
 The biggest challenge we had as a design and research team was pushing for this type of work that improves key journeys for our members. It took a long time to convince product and stakeholders that this would be worthwhile to focus on. It never became a priority until retention became a problem.
 
-By using user insight and connecting the work to business goals, our squad managed to tell a story of how essential it is to understand the research and buying journey of our users and how we can use these insights to push this type of work forward in the future that also aligns with business goals. Time will tell.
+By using user insight and connecting the work to business goals, our team managed to tell a story of how essential it is to understand the research and buying journey of our users and how we can use these insights to push this type of work forward in the future that also aligns with business goals.
+
+<figure>
+    <img src="/uploads/which-compare-1.png" alt="blah blah">
+     <figcaption>L-R: Lorem ipsum</figcaption>
+</figure>
