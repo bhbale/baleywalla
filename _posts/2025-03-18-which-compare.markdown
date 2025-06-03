@@ -29,7 +29,6 @@ Leaky bucket retention problem → We did some useful things → This increased 
 - Ticket writing and being hand-ons with engineering
 - Final UAT sign off before shipping
 
-
 <figure>
     <img src="/uploads/which-compare-2.png" alt="blah blah">
      <figcaption>Compare journey on mobile web | L-R: Adding products to the compare tray on a listing page, compare page showing a side to side comparison of 2 products, and switching between products on the compare page</figcaption>
@@ -103,36 +102,41 @@ Last year, the action of comparing products became a high-value action within th
 
 The biggest challenge we had as a design and research team was pushing for this type of work that improves key journeys for our members. It took a long time to convince product and stakeholders that this would be worthwhile to focus on. It never became a priority until retention became a problem.
 
-We managed to tell a story of how essential it is to understand the research and buying journey, further validate our ideas, and use everything we know to release work that benefits both users and business goals.
-
-<figure>
-    <img src="/uploads/which-compare-8.png" alt="blah blah">
-     <figcaption>Pros & cons were added to the compare page because it was already on the app and there was an appetite for it. It also eliminates the need to go to the product page.</figcaption>
-</figure>
-
-### Thanks for reading
-
-As a reward for scrolling so far, here's a list of the improvements we made to the compare page using evaluative insights.
-
-- Compare page enhancements
-- New pros & cons section
-- Added in accordions (collapsed by default on mobile)
-- Revamped star rating design
-- New expert review section with W?'s verdict
-- Improved spacing between sections
-- New section displaying all available retailers and prices
-
-<figure>
-    <img src="/uploads/which-compare-9.png" alt="blah blah">
-     <figcaption>Previously like ★★★☆☆ and hard to scan for users, we revamped the star ratings and these were well received by participants</figcaption>
-</figure>
+We managed to tell a story of how essential it is to understand the research and buying journey, further validate our ideas, and release things that benefit both our users and business goals.
 
 <figure>
     <img src="/uploads/which-compare-11.png" alt="blah blah">
      <figcaption>L-R: Accordions reduce the initial height on mobile and show all sections at a glance, new pros and cons section, and revamped star ratings on the compare page</figcaption>
 </figure>
 
+### The end
+
+As a thank you for scrolling this deep, here's everything we improved on the compare page using evaluative insights.
+
+- Compare page enhancements
+- New pros & cons section
+- Added in accordions (collapsed by default on mobile)
+- New expert review section with W?'s verdict
+- Revamped star rating design
+- Improved spacing between sections
+- New section displaying all available retailers and prices
+
+<figure>
+    <img src="/uploads/which-compare-8.png" alt="blah blah">
+     <figcaption>Pros & cons were added to the compare page because it was already on the app and there was an appetite for it. It also eliminates the need to go to the product page.</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/which-compare-12.png" alt="blah blah">
+     <figcaption>'Expert review' section where users can read Which?'s verdict on each product, eliminating the need to go back and forth to check the most important piece of the review</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/which-compare-9.png" alt="blah blah">
+     <figcaption>Previously ★★★☆☆ and hard to scan for users, we revamped the star ratings and these were well received in moderated testing</figcaption>
+</figure>
+
 <figure>
     <img src="/uploads/which-compare-10.png" alt="blah blah">
-     <figcaption>'Where to buy' section where users can see a full list of prices and retailers to compare from and this also gives us an affiliate revenue opportunity for affiliate revenue if the user is ready to buy</figcaption>
+     <figcaption>'Where to buy' section where users can see a full list of prices and retailers to compare from and this also gives us an affiliate revenue opportunity if the user is ready to buy</figcaption>
 </figure>
