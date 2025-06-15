@@ -24,7 +24,6 @@ layout: default
                                 <img src="{{ post.images[0] }}">
                             </div>
                             <p>{{ post.excerpt }}</p>
-                            <p>{{ post.title }}, {{ post.focus }}, {{ post.year }}</p>
                         </a>
                     </li>
                 {% endif %}
