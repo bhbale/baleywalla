@@ -17,16 +17,14 @@ layout: post
 
 ### Summary
 
-This → that → yay → 
+Focus on diversifying revenue outside of subscriptions → Affiliates seemed logical as it was in our remit → We tested a few good ideas → These ideas translated to an estimated £100k additional revenue per year
 
 - My role
-- Leading design
-- Planning and facilitating ideation workshops
-- Working closely with user researchers
-- Writing A/B test plans
-- Collaborating with experimentation and data teams
-- Ticket writing and being hand-ons with engineering
-- Final UAT sign off before shipping
+- Leading design within a product trio
+- Planning and facilitating ideation sessions
+- Competitor and affiliate business research
+- Planning and writing A/B test plans
+- Working closely with experimentation, data, and engineering teams
 
 <figure>
     <img src="/uploads/which-affiliates-2.png" alt="blah blah">
@@ -35,7 +33,9 @@ This → that → yay →
 
 ### Problem
 
-More of a business problem... company had shift and find ways to diversify revenue. We already had an affiliate network and journey where users could clickthrough to retailers. Let's optimise this to increase affiliate revenue that supports or main revenue driver, subscriptions.
+After migrating key product review pages (consisting of listing, product, and compare templates), we could finally look to improve these pages for our users. At the time, the problem within the business was that subscriptions were dwindling and we coudn't rely on subscriptions alone.
+
+As a squad, we looked to focus on affiliates to diversify revenue for the business. We just migrated ‘where to buy’ components on these key pages but not much had changed which put us in a good position to explore opportunities to optimise the affiliate journey and how we presented retailer links to users.
 
 <figure>
     <img src="/uploads/which-affiliates-2.png" alt="blah blah">
@@ -66,7 +66,7 @@ Lots from an ideation workshop where we got everyone to show an example of how o
 
 ### Iterative approach
 
-Lots from an ideation workshop where we got everyone to show an example of how others are doing a good job of affiliate links.
+Lorem
 
 <figure>
     <img src="/uploads/which-affiliates-2.png" alt="blah blah">
@@ -75,7 +75,7 @@ Lots from an ideation workshop where we got everyone to show an example of how o
 
 ### Impact
 
-Lots from an ideation workshop where we got everyone to show an example of how others are doing a good job of affiliate links.
+Lorem
 
 <figure>
     <img src="/uploads/which-affiliates-2.png" alt="blah blah">
@@ -84,7 +84,7 @@ Lots from an ideation workshop where we got everyone to show an example of how o
 
 ### Reflections / next steps / the end
 
-Lots from an ideation workshop where we got everyone to show an example of how others are doing a good job of affiliate links.
+Lorem
 
 <figure>
     <img src="/uploads/which-affiliates-2.png" alt="blah blah">
