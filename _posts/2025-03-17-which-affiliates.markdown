@@ -28,30 +28,30 @@ Focus on diversifying revenue outside of subscriptions → Affiliates seemed log
 
 <figure>
     <img src="/uploads/which-affiliates-2.png" alt="blah blah">
-     <figcaption>...</figcaption>
+     <figcaption>Pricing and retailer link styles rolled out to a number of components that we iterated through A/B testing to get to this style and orientation</figcaption>
 </figure>
 
 ### Problem
 
-After migrating key product review pages (consisting of listing, product, and compare templates), we could finally look to improve these pages for our users. At the time, the problem within the business was that subscriptions were dwindling and we coudn't rely on subscriptions alone.
+After migrating key product review pages (consisting of listing, product, and compare templates), we could finally look to improve these pages for our users. At the time, the problem within the business was that subscriptions were dwindling and we coudn't rely on them alone.
 
 As a squad, we looked to focus on affiliates to diversify revenue for the business. We just migrated ‘where to buy’ components on these key pages but not much had changed which put us in a good position to explore opportunities to optimise the affiliate journey and how we presented retailer links to users.
 
 <figure>
-    <img src="/uploads/which-affiliates-2.png" alt="blah blah">
-     <figcaption>...</figcaption>
+    <img src="/uploads/which-affiliates-3.png" alt="blah blah">
+     <figcaption>The starting point - we had 'View retailers' links on product cards on various pages that would go to the product page  and anchor down to the 'Where to buy' accordion which was collapsed by default and near the bottom of the page</figcaption>
 </figure>
 
-### Research
+### Insights
 
-Is their any? Include competitor analysis? Stage in the research and buying journey that includes price and explain that it's out of our control if users choose to exclusively check prices on Which? or to check other sources which is another insight. 
+From the research and buying journey, we already knew that users need to feel confident that they've found the best price before purchasing a product.
 
-A key insight is showing one or two retailers isn't enough for users. This is dependent on our tech being able to show more retailers so again, out of our control.
+A running theme from previous research was that when users are given the option of only 1 or 2 retailers, this isn't enough for them to use our affiliate links. It's normal behaviour for users to look elsewhere i.e. Google Shopping to find more available retailers and pricing. We couldn't force users to click our affiliate links which made this very constraining in what we could do.
 
-What do we have in control? The journeys to retailers, how we style pricing and retailers, and the components we own.
+What could we affect? We could improve journeys by removing steps and getting users to retailers faster. We could list retailers higher up the page rather than hiding them within a collapsed accordion near the bottom of the page. These are a few of the ideas we came up with while doing discovery with the squad.
 
 <figure>
-    <img src="/uploads/which-affiliates-2.png" alt="blah blah">
+    <img src="" alt="blah blah">
      <figcaption>...</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ What do we have in control? The journeys to retailers, how we style pricing and 
 Lots from an ideation workshop where we got everyone to show an example of how others are doing a good job of affiliate links.
 
 <figure>
-    <img src="/uploads/which-affiliates-2.png" alt="blah blah">
+    <img src="" alt="blah blah">
      <figcaption>...</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ Lots from an ideation workshop where we got everyone to show an example of how o
 Lorem
 
 <figure>
-    <img src="/uploads/which-affiliates-2.png" alt="blah blah">
+    <img src="" alt="blah blah">
      <figcaption>...</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Lorem
 Lorem
 
 <figure>
-    <img src="/uploads/which-affiliates-2.png" alt="blah blah">
+    <img src="" alt="blah blah">
      <figcaption>...</figcaption>
 </figure>
 
@@ -87,6 +87,6 @@ Lorem
 Lorem
 
 <figure>
-    <img src="/uploads/which-affiliates-2.png" alt="blah blah">
+    <img src="" alt="blah blah">
      <figcaption>...</figcaption>
 </figure>
