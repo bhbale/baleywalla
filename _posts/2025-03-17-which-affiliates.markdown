@@ -28,7 +28,7 @@ Focus on diversifying revenue outside of subscriptions → Affiliates seemed log
 
 <figure>
     <img src="/uploads/which-affiliates-2.png" alt="blah blah">
-     <figcaption>Pricing and retailer link styles rolled out to a number of components that we iterated through A/B testing to get to this style and orientation</figcaption>
+     <figcaption>Pricing and retailer links on various components that we A/B tested on a number of iterations to get to this style and orientation</figcaption>
 </figure>
 
 ### Problem
@@ -46,18 +46,18 @@ As a squad, we looked to focus on affiliates to diversify revenue for the busine
 
 From the research and buying journey, we already knew that users need to feel confident that they've found the best price before purchasing a product.
 
-A running theme from previous research was that when users are given the option of only 1 or 2 retailers, this isn't enough for them to use our affiliate links. It's normal behaviour for users to look elsewhere i.e. Google Shopping to find more available retailers and pricing. We couldn't force users to click our affiliate links which made this very constraining in what we could do.
-
-What could we affect? We could improve journeys by removing steps and getting users to retailers faster. We could list retailers higher up the page rather than hiding them within a collapsed accordion near the bottom of the page. These are a few of the ideas we came up with while doing discovery with the squad.
+A running theme from previous research was that when users are given the option of only 1 or 2 retailers, this isn't enough for them to use our affiliate links. It's normal behaviour for users to look elsewhere i.e. Google Shopping to find more available retailers and pricing. We couldn't force our users to click our affiliate links which made this very constraining in what we could do.
 
 <figure>
-    <img src="" alt="blah blah">
-     <figcaption>...</figcaption>
+    <img src="/uploads/which-compare-4.png" alt="blah blah">
+     <figcaption>The product research and buying journey with the areas highlighted that we could control for users within the Which? reviews experience (TBD - need to highlight areas for affiliates)</figcaption>
 </figure>
 
 ### Opportunities
 
-Lots from an ideation workshop where we got everyone to show an example of how others are doing a good job of affiliate links.
+A workshop activity that was useful for us when it came to coming up with ideas to increase affiliate revenue was we gave each squad member homework to find an example of how other companies are doing affiliates well. This activity allowed squad members to get involved in competitor analysis as well as look for gaps in our existing affiliate experience.
+
+Examples of some of the ideas included removing steps in the affiliate journey to get users to retailers faster, adding more prominence to the links, and having the links visible within view on certain pages.
 
 <figure>
     <img src="" alt="blah blah">
