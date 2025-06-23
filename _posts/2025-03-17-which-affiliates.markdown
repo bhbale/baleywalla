@@ -49,8 +49,8 @@ From the research and buying journey, we already knew that users need to feel co
 A running theme from previous research was that when users are given the option of only 1 or 2 retailers, this isn't enough for them to use our affiliate links. It's normal behaviour for users to look elsewhere i.e. Google Shopping to find more available retailers and pricing. We couldn't force our users to click our affiliate links which made this very constraining in what we could do.
 
 <figure>
-    <img src="/uploads/which-compare-4.png" alt="blah blah">
-     <figcaption>The product research and buying journey with the areas highlighted that we could control for users within the Which? reviews experience (TBD - need to highlight areas for affiliates)</figcaption>
+    <img src="/uploads/which-affiliates-4.png" alt="blah blah">
+     <figcaption>The product research and buying journey with the 'buy' stage highlighted where a user is ready to make a purchase</figcaption>
 </figure>
 
 ### Opportunities
@@ -60,7 +60,7 @@ A workshop activity that was useful for us when it came to coming up with ideas 
 Examples of some of the ideas included removing steps in the affiliate journey to get users to retailers faster, adding more prominence to the links, and having the links visible within view on certain pages.
 
 <figure>
-    <img src="" alt="blah blah">
+    <img src="/uploads/which-affiliates-5.png" alt="blah blah">
      <figcaption>...</figcaption>
 </figure>
 
