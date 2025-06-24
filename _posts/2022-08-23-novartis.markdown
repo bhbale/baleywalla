@@ -2,6 +2,7 @@
 title: Novartis
 date: 2022-08-23 00:00:00 Z
 permalink: "/novartis/"
+published: false
 categories:
 - Iconography
 excerpt: Iconography for an interactive app intended to give an overview of a fully
