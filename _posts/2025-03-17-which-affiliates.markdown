@@ -21,10 +21,13 @@ Focus on diversifying revenue outside of subscriptions → Affiliates seemed log
 
 - My role
 - Leading design within a product trio
-- Planning and facilitating ideation sessions
+- OKR setting and stakeholder management
+- Planning and facilitating workshops and ideation sessions
 - Competitor and affiliate business research
 - Planning and writing A/B test plans
-- Working closely with experimentation, data, and engineering teams
+- Collaborating with experimentation and data teams
+- Ticket writing and being hand-ons with engineering
+- Final UAT sign off before shipping
 
 <figure>
     <img src="/uploads/which-affiliates-2.png" alt="blah blah">
@@ -39,7 +42,7 @@ As a squad, we looked to focus on affiliates to diversify revenue for the busine
 
 <figure>
     <img src="/uploads/which-affiliates-3.png" alt="blah blah">
-     <figcaption>The starting point - we had 'View retailers' links on product cards on various pages that would go to the product page  and anchor down to the 'Where to buy' accordion which was collapsed by default and near the bottom of the page</figcaption>
+     <figcaption>The starting point — we had 'View retailers' links on product cards on various pages that would go to the product page  and anchor down to the 'Where to buy' accordion which was collapsed by default and near the bottom of the page</figcaption>
 </figure>
 
 ### Insights
@@ -50,7 +53,7 @@ A running theme from previous research was that when users are given the option 
 
 <figure>
     <img src="/uploads/which-affiliates-4.png" alt="blah blah">
-     <figcaption>The product research and buying journey with the 'buy' stage highlighted where a user is ready to make a purchase</figcaption>
+     <figcaption>The product research and buying journey tailored to affiliate insights that we collected from previous research findings with areas highlighted that we use to generate ideas as a squad</figcaption>
 </figure>
 
 ### Opportunities
@@ -59,9 +62,18 @@ A workshop activity that was useful for us when it came to coming up with ideas 
 
 Examples of some of the ideas included removing steps in the affiliate journey to get users to retailers faster, adding more prominence to the links, and having the links visible within view on certain pages.
 
+- Workshop agenda
+- Warm-up: Competitor inspiration
+- Context setting
+- What we know: A/B tests and data points
+- Pain points: JTBD / MMD
+- How might we...
+- Ideas, ideas, ideas
+- Wrap up and next steps
+
 <figure>
     <img src="/uploads/which-affiliates-6.png" alt="blah blah">
-     <figcaption>...</figcaption>
+     <figcaption>We spotted an opportunity that publishers probably had been doing all along which we weren't doing on article pages — links that went straight to retailers</figcaption>
 </figure>
 
 ### Iterative approach
@@ -74,10 +86,22 @@ On product pages, we experimented by adding retailer links higher up the page. P
 
 <figure>
     <img src="/uploads/which-affiliates-5.png" alt="blah blah">
-     <figcaption>...</figcaption>
+     <figcaption>A/B test experiment where we added links straight to retailers on article pages that removed a step in the journey where previously, users would go to the product page to see a full list of retailers and then click out to retailers
+</figcaption>
 </figure>
 
 ### Impact
+
+It's hard to estimate how each test performed truly without real revenue figures because cost averages per affiliate click aren't accurate. Without knowing the actual numbers paid by retailers during these tests, it was difficult to know the true impact and attribute a winner from a test to an increase in revenue.
+
+What we do know is that we had big wins and learnings from these tests. We worked on affiliates in back to back quarters and smashed both of our affiliate revenue targets where we did get real figures from the partnerships team. We also knew from GA data that where we re-distributed affiliate clicks onto articles, the total distribution of clicks across our components and pages weren't affected.
+
+<figure>
+    <img src="" alt="blah blah">
+     <figcaption>...</figcaption>
+</figure>
+
+### Reflections
 
 Lorem
 
@@ -86,7 +110,7 @@ Lorem
      <figcaption>...</figcaption>
 </figure>
 
-### Reflections / next steps / the end
+### The end
 
 Lorem
 

@@ -66,7 +66,7 @@ We then further validated these ideas through A/B test experiments and where nec
 
 <figure>
     <img src="/uploads/which-compare-5.png" alt="blah blah">
-     <figcaption>A/B test experiment where we reduced the size of the mobile product cards on listing pages that allow users to compare earlier in their research and buying journey - a key insight we discovered from user research</figcaption>
+     <figcaption>A/B test experiment where we reduced the size of the mobile product cards on listing pages that allow users to compare earlier in their research and buying journey — a key insight we discovered from user research</figcaption>
 </figure>
 
 ### Big and small bets
