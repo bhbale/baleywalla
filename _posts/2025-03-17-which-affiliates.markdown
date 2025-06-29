@@ -53,7 +53,7 @@ A running theme from previous research was that when users are given the option 
 
 <figure>
     <img src="/uploads/which-affiliates-4.png" alt="blah blah">
-     <figcaption>The product research and buying journey tailored to affiliate insights that we collected from previous research findings with areas highlighted that we use to generate ideas as a squad</figcaption>
+     <figcaption>The product research and buying journey tailored to affiliates  that we collected insights from previous research findings with areas highlighted that we use to generate ideas as a squad</figcaption>
 </figure>
 
 ### Opportunities
@@ -97,22 +97,28 @@ It's hard to estimate how each test performed truly without real revenue figures
 What we do know is that we had big wins and learnings from these tests. We worked on affiliates in back to back quarters and smashed both of our affiliate revenue targets where we did get real figures from the partnerships team. We also knew from GA data that where we re-distributed affiliate clicks onto articles, the total distribution of clicks across our components and pages weren't affected.
 
 <figure>
-    <img src="" alt="blah blah">
-     <figcaption>...</figcaption>
+    <img src="/uploads/which-affiliates-7.png" alt="blah blah">
+     <figcaption>The impact of adding links to retailers on articles before and after launching (retailer links were only on product pages at the time)</figcaption>
 </figure>
 
 ### Reflections
 
-Lorem
+We had a lot of ideas and insights that we could use to improve the affiliate experience for our users. The reality of what we could do though was extremely limiting. For example, we carried out a fake door test that highlighted retailers who had free delivery and this increased affiliate clicks by 14%. This wasn't feasible because our third-party provider didn't have delivery information available. As of now, this data is still not available for us.
+
+Constraits are essential to know if you need tests that require immediate business impact. We've had issues before where we discovered an idea was too difficult to do because our content wasn't structure as expected and idea would be hard to scale. Considering all things, we managed to test a bunch of ideas that were feasible and they contributed to an increase in affiliate revenue for the business.
 
 <figure>
-    <img src="" alt="blah blah">
-     <figcaption>...</figcaption>
+    <img src="/uploads/which-affiliates-8.png" alt="blah blah">
+     <figcaption>3 seperate tests that show the winner for each — we tested on the same component on product pages (the first test is when we introduced the component) that spanned over a year</figcaption>
 </figure>
 
 ### The end
 
-Lorem
+Say thanks
+
+Mention that the latest test informed styling across all components (including squirrel widgets) and how we introduced affiliate links on compare pages as well.
+
+List out every test and component
 
 <figure>
     <img src="" alt="blah blah">
