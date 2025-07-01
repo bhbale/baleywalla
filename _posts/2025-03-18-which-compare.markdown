@@ -17,7 +17,7 @@ layout: post
 
 ### Summary
 
-Leaky bucket retention problem → We did some useful things → This increased engagement with the compare tool 33% YoY → Good outcomes for both users and the business
+Leaky bucket retention problem → We did some useful things → This increased engagement with the compare tool 38% YoY → Good outcomes for both users and the business
 
 - My role
 - Leading design and product
@@ -87,11 +87,11 @@ We rolled out a number of initiatives confident that they would impact engagemen
 
 ### Impact
 
-To our surprise, we saw a 33% YoY increase in engagement on the compare journey as a result of all the changes. A lot more than we imagined.
+To our surprise, we saw a 38% YoY increase in engagement on the compare journey as a result of all the changes. Another surprise when we looked closer at the overall impact of compare was that affiliate click through increased by 23% as well. We managed to increase both member engagement and revenue for the business.
 
 The compare journey and page was untouched for many years. I was part of the reviews rewrite project in 2022 where we updated the look of the page using design system components. How users interacted with the page stayed the same. 
 
-Another surprise that we discovered months later after a data analyst looked closer at the overall impact of compare was affiliate click through increased by 23%. A win for both retention and additional revenue for the business.
+In 2024, the action of comparing products became a high-value action within the business because the research and data showed how important this stage of the research and buying journey was to users.
 
 <figure>
     <img src="/uploads/which-compare-7.png" alt="blah blah">
