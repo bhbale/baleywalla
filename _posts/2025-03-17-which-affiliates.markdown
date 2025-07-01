@@ -82,12 +82,19 @@ We relied on experimentation heavily in this project because it was important to
 
 Our biggest affiliate test win came from a simple idea of adding links that go straight to the retailer on articles. It seems so simple because other publishers were already doing this. 
 
-On product pages, we experimented by adding retailer links higher up the page. Previously, the links were near the bottom of the page in an accordion. Once we knew this worked and increased click through, we tested the component a couple more times. The final winner informed how the pricing and retailer link styles look today across all components.
+
 
 <figure>
     <img src="/uploads/which-affiliates-5.png" alt="blah blah">
      <figcaption>A/B test experiment where we added links straight to retailers on article pages that removed a step in the journey where previously, users would go to the product page to see a full list of retailers and then click out to retailers
 </figcaption>
+</figure>
+
+On product pages, we experimented by adding retailer links higher up the page. Previously, the links were near the bottom of the page in an accordion. Once we knew this worked and increased click through, we tested the component a couple more times. The final winner informed how the pricing and retailer link styles look today across all components.
+
+<figure>
+    <img src="/uploads/which-affiliates-8.png" alt="blah blah">
+     <figcaption>3 seperate tests that show the winner for each — we tested on the same component on product pages (the first test is when we introduced the component) that spanned over a year</figcaption>
 </figure>
 
 ### Impact
@@ -105,22 +112,40 @@ What we do know is that we had big wins and learnings from these tests. We worke
 
 We had a lot of ideas and insights that we could use to improve the affiliate experience for our users. The reality of what we could do though was extremely limiting. For example, we carried out a fake door test that highlighted retailers who had free delivery and this increased affiliate clicks by 14%. This wasn't feasible because our third-party provider didn't have delivery information available. As of now, this data is still not available for us.
 
-Constraits are essential to know if you need tests that require immediate business impact. We've had issues before where we discovered an idea was too difficult to do because our content wasn't structure as expected and idea would be hard to scale. Considering all things, we managed to test a bunch of ideas that were feasible and they contributed to an increase in affiliate revenue for the business.
+If you need to contribute to business metrics immediately, constraints are important to know so that ideas can scale right away. We've had issues before where we discovered an idea was too difficult to do because our content wasn't structured properly. Considering all things, we managed to test a bunch of ideas that were feasible and they contributed to the business right away.
 
 <figure>
-    <img src="/uploads/which-affiliates-8.png" alt="blah blah">
-     <figcaption>3 seperate tests that show the winner for each — we tested on the same component on product pages (the first test is when we introduced the component) that spanned over a year</figcaption>
+    <img src="/uploads/which-affiliates-9.png" alt="blah blah">
+     <figcaption>A fake door test where we highlighted retailers that had no delivery fees and this tested well but it wasn't feasible to build in the end because the we didn't have the data to scale the idea</figcaption>
 </figure>
 
 ### The end
 
-Say thanks
+As a thank you for scrolling this deep, here's a full list of all of the changes we released for affiliates. It was a mixture of A/B test wins and 'just do it' work that were no brainers because of sufficient past evidence.
 
-Mention that the latest test informed styling across all components (including squirrel widgets) and how we introduced affiliate links on compare pages as well.
-
-List out every test and component
+- Everything we shipped
+- Adding retailer links on article product cards 
+- Showing up to 3 retailers at the top of product pages
+- More links on various parts of the compare page
+- Customised styling on a widget used vastly on articles
 
 <figure>
-    <img src="" alt="blah blah">
-     <figcaption>...</figcaption>
+    <img src="/uploads/which-affiliates-11.png" alt="blah blah">
+     <figcaption>Retailer pricing and links within product cards on a 'Best' article page</figcaption>
 </figure>
+
+<figure>
+    <img src="/uploads/which-affiliates-12.png" alt="blah blah">
+     <figcaption>'Lowest available prices' component highlighting up to 3 retailers on a product page</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/which-compare-1.png" alt="blah blah">
+     <figcaption>Affiliate links were changed on the compare page from 'View retailers' that went to the product page to instead go straight to retailers (previous testing informed this decision)</figcaption>
+</figure>
+
+<figure>
+    <img src="/uploads/which-affiliates-10.png" alt="blah blah">
+     <figcaption>How the 'Squirrel' widget appeared on our articles before vs after we customised the styles to match our affiliate styles and as a result of the change, they no longer look like ads</figcaption>
+</figure>
+
