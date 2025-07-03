@@ -130,7 +130,7 @@ As a thank you for scrolling this deep, here's a full list of all of the changes
 - Customised styling on a widget used vastly on articles
 
 <figure>
-    <img src="/uploads/which-affiliates-11.png" alt="blah blah">
+    <img src="/uploads/which-affiliates-13.png" alt="blah blah">
      <figcaption>Retailer pricing and links within product cards on a 'Best' article page</figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ As a thank you for scrolling this deep, here's a full list of all of the changes
 </figure>
 
 <figure>
-    <img src="/uploads/which-affiliates-13.png" alt="blah blah">
+    <img src="/uploads/which-affiliates-11.png" alt="blah blah">
      <figcaption>Affiliate links were changed on the compare page from 'View retailers' that went to the product page to instead go straight to retailers (previous testing informed this decision)</figcaption>
 </figure>
 
