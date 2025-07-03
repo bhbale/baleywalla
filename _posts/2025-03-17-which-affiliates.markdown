@@ -112,7 +112,7 @@ What we do know is that we had big wins and learnings from these tests. We worke
 
 We had a lot of ideas and insights that we could use to improve the affiliate experience for our users. The reality of what we could do though was extremely limiting. For example, we carried out a fake door test that highlighted retailers who had free delivery and this increased affiliate clicks by 14%. This wasn't feasible because our third-party provider didn't have delivery information available. As of now, this data is still not available for us.
 
-If you need to contribute to business metrics immediately, constraints are important to know so that ideas can scale right away. We've had issues before where we discovered an idea was too difficult to do because our content wasn't structured properly. Considering all things, we managed to test a bunch of ideas that were feasible and they contributed to the business right away.
+If you need to contribute to business metrics immediately, constraints are important to know because ideas need to scale right away to have impact. We've had issues before where we discovered an idea was too difficult to do because our content wasn't structured properly. Considering all things, we managed to test a bunch of ideas that were feasible and they contributed to the business instantly.
 
 <figure>
     <img src="/uploads/which-affiliates-9.png" alt="blah blah">
@@ -136,16 +136,16 @@ As a thank you for scrolling this deep, here's a full list of all of the changes
 
 <figure>
     <img src="/uploads/which-affiliates-12.png" alt="blah blah">
-     <figcaption>'Lowest available prices' component highlighting up to 3 retailers on a product page</figcaption>
+     <figcaption>'Lowest available prices' component highlighting up to 3 retailers on a product page and a jump link to see all retailers</figcaption>
 </figure>
 
 <figure>
-    <img src="/uploads/which-compare-1.png" alt="blah blah">
+    <img src="/uploads/which-affiliates-13.png" alt="blah blah">
      <figcaption>Affiliate links were changed on the compare page from 'View retailers' that went to the product page to instead go straight to retailers (previous testing informed this decision)</figcaption>
 </figure>
 
 <figure>
     <img src="/uploads/which-affiliates-10.png" alt="blah blah">
-     <figcaption>How the 'Squirrel' widget appeared on our articles before vs after we customised the styles to match our affiliate styles and as a result of the change, they no longer look like ads</figcaption>
+     <figcaption>How the 'Squirrel' widget appeared on our articles before vs after we customised it to match our affiliate pricing and retailer link styles and as a result of the change, they no longer look like ads</figcaption>
 </figure>
 

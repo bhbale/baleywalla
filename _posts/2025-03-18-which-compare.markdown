@@ -87,7 +87,7 @@ We rolled out a number of initiatives confident that they would impact engagemen
 
 ### Impact
 
-To our surprise, we saw a 38% YoY increase in engagement on the compare journey as a result of all the changes. Another surprise when we looked closer at the overall impact of compare was that affiliate click through increased by 23% as well. We managed to increase both member engagement and revenue for the business.
+As a result of everything we shipped, we saw YoY increases of 38% and 23% in compare engagement and affiliate clicks respectively. The YoY increase in engagement was a big surprise for us. It was incredibly rewarding after everything we did as a squad—contributing positively to both retention and revenue. 
 
 The compare journey and page was untouched for many years. I was part of the reviews rewrite project in 2022 where we updated the look of the page using design system components. How users interacted with the page stayed the same. 
 
